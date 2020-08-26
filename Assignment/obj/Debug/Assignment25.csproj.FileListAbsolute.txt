@@ -1,0 +1,13 @@
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\bin\Debug\Assignment25.exe.config
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\bin\Debug\Assignment25.exe
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\bin\Debug\Assignment25.pdb
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.csprojResolveAssemblyReference.cache
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.Customer.resources
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.Form1.resources
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.Properties.Resources.resources
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.Staff.resources
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.csproj.GenerateResource.Cache
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.exe
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.pdb
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.Log.resources
+E:\Data\.Net\Assignment25\Assignment25\Assignment25\obj\Debug\Assignment25.frmRptLog.resources
